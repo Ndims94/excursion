@@ -30,3 +30,7 @@ p{
 }
 
 
+footer p{
+    text-align:right;
+    color:gray;
+}
